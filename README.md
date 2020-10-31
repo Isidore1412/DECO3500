@@ -1,12 +1,13 @@
 # DECO3500
 
 Prototype link: https://modao.cc/app/dfd9cc3d189fc8eede196efaa0b5544913280512?simulator_type=device&sticky#screen=skg952jv9nctqsz
-Login credential: keep empty
 
-DESIGN PROCESS
+How to use prototype
+
+DESIGN PROCESS https://github.com/Isidore1412/DECO3500/wiki/Design-Process
 
 WEEK 8
-USER RESEARCH
+USER RESEARCH https://github.com/Isidore1412/DECO3500/wiki/Research
 
 
 ORIGINAL LOW FIDETITY PROTOTYPE
