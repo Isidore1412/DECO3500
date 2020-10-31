@@ -1,73 +1,9 @@
 # DECO3500
 
-Prototype link: https://modao.cc/app/dfd9cc3d189fc8eede196efaa0b5544913280512?simulator_type=device&sticky#screen=skg952jv9nctqsz
+### Prototype view online: https://www.modao.cc/app/dfd9cc3d189fc8eede196efaa0b5544913280512?simulator_type=device&sticky
+### How to use prototype
+Download the prototype folder and open index.html
 
-How to use prototype
-
-DESIGN PROCESS https://github.com/Isidore1412/DECO3500/wiki/Design-Process
-
-WEEK 8
-USER RESEARCH https://github.com/Isidore1412/DECO3500/wiki/Research
-
-
-ORIGINAL LOW FIDETITY PROTOTYPE
-
-
-SUMMARY OF STAND-UP
-
-
-WEEK 9
-TEST:
-FURTHER USER RESEARCH ON DEVICES AND SO ON
-part 1: 
-
-part 2:
-
-DETAILS OF OUR RESEARCH PROCESS AND INTERVIEW
-part 1: 
-
-part 2: 
-
-ANALYSIS AND SUMMARY
-
-
-ITEREATION
-
-
-LOW FIDELITY PROTOTYPE AFTER ITERATION
-
-
-WEEK 10
-TEST
-
-
-# DETAILED TEST PROCESS
-
-
-# ANALYSIS
-
-
-# ITERATION
-
-
-# SUMMARY
-
-
-MEDIUM FIDELITY PROTOTYPE AFTER ITERATION
-
-
-WEEK 11
-TEST
-
-
-DETAILED TEST PROCESS
-
-
-ITERATION
-
-
-MEDIUM HIGH PROTOTYPE AFTER ITERATION
-
-
-CONCLUSION, ANALYSIS & REFLECTION
+### Notice
+This prototype is collaborated and shared by Yupeng Song and Guangzhao Wang. The distinguishment of individual work is tab bar. Yupeng's work is attached to the first tab page which is on the left of tab bar, while Guangzhao's is attached to the second one which is on the right.
 
