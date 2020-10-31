@@ -3,7 +3,7 @@
 ### Prototype view online: https://www.modao.cc/app/dfd9cc3d189fc8eede196efaa0b5544913280512?simulator_type=device&sticky
 
 ### How to use prototype
-[Link to wiki]https://github.com/Isidore1412/DECO3500/wiki/How-to-use-prototype
+[Link to wiki](https://github.com/Isidore1412/DECO3500/wiki/How-to-use-prototype)
 
 
 ### Notice
